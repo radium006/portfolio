@@ -1,0 +1,97 @@
+body {
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  /*background-color: #000000;*/
+  background-image: url("https://www.transparenttextures.com/patterns/black-orchid.png");
+}
+
+#intro {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../../assets/img/nathan-anderson-125786-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  color: rgb(255,255,255);
+}
+
+.navbar.navbar-light.navbar-expand-md {
+}
+
+#navcol-1 {
+}
+
+#hello {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  align-items: center;
+}
+
+#profile-pic {
+  width: 300px;
+  height: 300px;
+  border: 4px solid white;
+  padding: 2px;
+}
+
+p {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 16px;
+}
+
+.h1, h1 {
+  text-align: center;
+}
+
+#project-title {
+  text-align: center;
+  /*background-image: url('../../assets/img/florian-olivo-1169467-unsplash.jpg');*/
+}
+
+#icons {
+  /*font-size: 50px;*/
+  /*text-align: center;*/
+  margin: 2pc;
+}
+
+#skill-cell {
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7px;
+}
+
+#icon {
+  width: 45px;
+  height: 45px;
+}
+
+#contact-form {
+  background-color: black;
+}
+
+#project-pic {
+  text-align: center;
+}
+
+#skill-cellimg {
+  margin: 7px;
+}
+
+#aboutme {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/black-orchid.png");
+}
+
+#contact-form {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/black-orchid.png");
+}
+
